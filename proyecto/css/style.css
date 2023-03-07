@@ -1,0 +1,30 @@
+p{
+	color:white;
+	font-size: 14pt;
+}
+h1{
+	color: blueviolet;
+	text-align: center;
+	font-size: 18pt;
+}
+
+h2{
+	color:black;
+	text-align: center;
+	font-size: 16pt;
+}
+
+body{
+	background-image: url('https://thumbs.dreamstime.com/b/fondo-elegante-11187187.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	color: #FFFFFF;
+}
+a{
+	text-decoration: none;
+}
+font{
+	color: red;
+}
+
